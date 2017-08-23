@@ -1,0 +1,73 @@
+	html {font-size: 20px;}
+    .header{height:8.725rem;}
+	 body {background: #eee;font-family: Helvetica Neue, Helvetica, Arial, sans-serif;color:#000;margin: 0;padding: 0;background:#fff;}
+    .swiper-container {width: 100%;height: 100%;}
+    .swiper-slide {text-align: center;background: #fff;display: -webkit-box;display: -ms-flexbox;display: -webkit-flex;display: flex;-webkit-box-pack: center;-ms-flex-pack: center;-webkit-justify-content: center;justify-content: center;-webkit-box-align: center;-ms-flex-align: center;-webkit-align-items: center;align-items: center;}
+    .header .swiper-pagination{width: 4.025rem;height: 0.9rem;background: black;display: inline-block;bottom:10%; left: 50%;margin-left: -1.5rem; border-radius: 18px;background-color:rgba(0,0,0,0.5);}
+    .swiper-slide img{width: 100%;height: 100%;}
+    .swiper-pagination .swiper-pagination-bullet{background:#dedddd;width: 0.4rem;height: 0.4rem;border:0.15rem solid #fff;}
+   	.swiper-pagination .swiper-pagination-bullet .swiper-pagination-bullet-active{display: inline-block;border-radius: 100%;}
+   	.swiper-container-horizontal>.swiper-pagination-bullets .swiper-pagination-bullet{margin-top: 3px;}
+    .header .nav{height:1.6rem;top:0;left:0;z-index: 10;margin-top:3.7%;}
+    .header .nav .scan img{width:1.35rem;height:100%;margin-left:10.5px;}
+    .header .nav .nav-search{width:14.175rem; height:100%;background:#fff;border-radius:20px;margin-left:0.35rem;}
+    .header .nav img{width:1.0rem;height:1.625rem;}
+    .header .nav .nav-search input{border:none;width:70%;height:98%;margin-left:1.75rem;}
+    .header .nav .new{margin-left:0.575rem;}
+    .header .cover{bottom:0px;z-index:11;width:100%;height:0.4rem;}
+    .header .cover img{width:100%;height:auto;}
+    .produce-nav ul{width:93%;margin:auto;}
+    .produce-nav ul li{float: left;width:2.425rem;height:3.025rem;margin-right:1.3rem;}
+    .produce-nav ul .right{margin-right:0;}
+    .produce-nav ul li .produce-img{text-align:center;margin-bottom: 0.325rem;}
+    .produce-nav ul li .produce-img img{width:2.05rem;height:2.05rem;}
+    .produce-nav ul li .produce-new{text-align:center;font-size:0.3rem;}
+    .advertisement{width:100%;height:1.775rem;background:#eeeeee;margin-top:1.125rem; }
+    .advertisement span a img{width:3.075rem;height:0.7rem;}
+    .advertisement span{top:0.5rem;left:0.6rem;}
+    .advertisement .swiper-container {width: 100%;height: 1.775rem;margin-left: auto;margin-right: auto; }
+    .advertisement .swiper-container .swiper-wrapper .swiper-slide {font-size:0.575rem; height: 1.775rem;text-align: center;background: #eeeeee;display: -webkit-box;display: -ms-flexbox;display: -webkit-flex;display: flex;-webkit-box-pack: center;-ms-flex-pack: center;-webkit-justify-content: center;justify-content: center; -webkit-box-align: center;-ms-flex-align: center;-webkit-align-items: center;align-items: center;!important; }
+    .advertisement .tab-news{left:4.5rem;}
+    .banners a img{width:96%;height:4.5rem;margin-left:0.275rem;margin-top:0.75rem;}
+    .blank{width:100%;height:0.45rem;background:#eeeeee;margin-top:0.35rem;}
+    .feast{width:100%;height:7.9rem;}
+    .feast .feast-banner{width:8.225rem;height:2.175rem;top:-0.25rem;}
+    .feast .feast-banner a img{width:100%;height:100%;}
+     .feast .produce-list .swiper-container {width: 100%;height:5.92rem;margin: auto;padding-top:2.0rem;}
+    .feast .produce-list .swiper-container .swiper-slide {text-align: center;font-size: 18px;background: #fff;width:3.6rem !important;margin-right:0.35rem !important;height:5.9rem;display: -webkit-box;display: -ms-flexbox;display: -webkit-flex;display: flex;-webkit-box-pack: center;-ms-flex-pack: center;-webkit-justify-content: center;justify-content: center;-webkit-box-align: center;-ms-flex-align: center;-webkit-align-items: center;align-items: center;}
+    .feast .produce-list .swiper-container .swiper-slide .swiper-slide-img{width:3.6rem;height:3.65rem; background:blue;margin-top:-2.29rem;}
+    .feast .produce-list .swiper-container .swiper-slide .swiper-slide-price{width:100%;text-align:center;color:red;font-size:0.75rem;top:3.9rem;}
+    .matter{width:100%;height:12.05rem;border-top:1px solid #e2e2e2;}
+    .matter ul li.active{width:9.1rem;}
+    .matter ul li{float:left; border-left: 1px solid #e2e2e2;border-bottom:1px solid #e2e2e2; width:4.725rem;height:6.05rem;}
+    .matter ul li a img{width:100%;height:100%;}
+    .jdbanner{width:100%;height:2.1rem;}
+    .special{width:100%;height:6.4rem;}
+    .jdcamp{width:7.025rem;height:2.575rem;top:-7.9rem;}
+    .find{width:100%;height:7.5rem;top:-2.56rem;}
+    .find ul li{float:left; width:4.6rem;height:6.25rem;border-bottom:1px solid #e2e2e2;border-left:1px solid #e2e2e2;}
+    .find ul li.active{width:9.3rem;}
+    .find ul li a img{width:100%;height:100%;}
+    .digital .special a img{top:-0.8rem;}
+    .digital .jdcamp{top:-2.9rem;}
+    .digital {height:13.5rem;top:-0.675rem;}
+    .null{width:100%;height:1.0rem;background:#eeeeee;margin-top:2.275rem;}
+    .foryou{width:100%;height:2.25rem;}
+    .foryou img{width:8.65rem;height:1.0rem;left:5.375rem;top:0.5rem}
+    .foryou-list{height:auto;}
+    .foryou-list ul{width:100%;}
+    .foryou-list ul li{width:9rem;height:12.85rem;border:1px solid #959595;border-top:none;margin-bottom:0.7rem;}
+    .foryou-list ul li:nth-child(odd){margin-left:0.1rem;}
+    .foryou-list ul li:nth-child(even){margin-left:0.3rem;}
+    .foryou-list ul li a .list-img{width:100%;height:9.1rem;}
+    .foryou-list ul li a p{margin-top:0.425rem;color:#292929;font-size:0.6rem;}
+    .foryou-list ul li a p .hot{width:1.95rem;height:0.6rem;margin-left:0.5rem;}
+    .for-price span{color:#ff433d;font-size:0.75rem;margin-left:0.6rem;}
+    .for-price i{display:inline-block;font-size:0.45rem;border:1px solid black;margin:0 0.3rem 0 0.4rem;border-radius:0.1rem;}
+    .for-price em img{width:0.65rem;height:0.65rem;vertical-align: middle;margin-top:-0.195rem;}
+    .for-price{margin-top:0.125rem;}
+    .btn a img{width:1.175rem;height:0.55rem;margin:0.47rem;}
+    .footer{width:100%;height:2.5rem;}
+    .footer .home-pages img{width:1.1rem;height:1.875rem; }
+    .footer div{float:left;margin:0.35rem 1.7rem;}
+    .footer{position:fixed;bottom:0;left:0;background:#fff;z-index:1000;}
